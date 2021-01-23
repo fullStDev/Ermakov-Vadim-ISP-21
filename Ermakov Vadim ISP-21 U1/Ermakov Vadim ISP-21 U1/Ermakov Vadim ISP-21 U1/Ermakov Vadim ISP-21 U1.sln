@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ermakov Vadim ISP-21 U1", "Ermakov Vadim ISP-21 U1.csproj", "{F56B50AE-CD8B-4958-8DCE-494478F1ACC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56B50AE-CD8B-4958-8DCE-494478F1ACC5}.Debug|x86.ActiveCfg = Debug|x86
+		{F56B50AE-CD8B-4958-8DCE-494478F1ACC5}.Debug|x86.Build.0 = Debug|x86
+		{F56B50AE-CD8B-4958-8DCE-494478F1ACC5}.Release|x86.ActiveCfg = Release|x86
+		{F56B50AE-CD8B-4958-8DCE-494478F1ACC5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08956712-0287-4750-9946-76D7D2CEB55E}
+	EndGlobalSection
+EndGlobal
